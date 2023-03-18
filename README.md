@@ -45,7 +45,7 @@ If these vulnerabilities were exploited by an attacker, they could gain full con
 
 
 <h2>Recommendations</h2>
-We recommend that the following actions be taken to address the identified vulnerabilities:
+I recommend that the following actions be taken to address the identified vulnerabilities:
 <br />
 Close unnecessary open ports: Close any ports that are not required for the operation of the system.
 <br />
@@ -56,7 +56,7 @@ Implement strong password policies: Enforce strong password policies to make it 
 
 
 <h2>Conclusion</h2>
-The penetration test of the Kioptrix Level 1.1 machine demonstrated the potential impact of several vulnerabilities that could be exploited by attackers. The identified vulnerabilities should be addressed as soon as possible to mitigate the risk of a real-world attack. We recommend implementing the recommendations outlined above to improve the security of the system.
+The penetration test of the Kioptrix Level 1.1 machine demonstrated the potential impact of several vulnerabilities that could be exploited by attackers. The identified vulnerabilities should be addressed as soon as possible to mitigate the risk of a real-world attack. I recommend implementing the recommendations outlined above to improve the security of the system.
 <br />
 
 
